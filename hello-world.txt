@@ -1,3 +1,5 @@
 Hello World, this is a git tutorial!
 
+We're editing on the new-feature branch. This is cooler.
+
 We're having a lot of fun! Isn't git amazing?
