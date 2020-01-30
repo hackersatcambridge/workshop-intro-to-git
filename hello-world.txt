@@ -1,1 +1,3 @@
 Hello World, this is a git tutorial!
+
+We're having a lot of fun!
