@@ -1,3 +1,5 @@
 Hello World, this is a git tutorial!
 
+I'm editing the master branch
+
 We're having a lot of fun! Isn't git amazing?
